@@ -1,0 +1,11 @@
+Item ID: 004
+Item Name: Gadget D
+Quantity: 75
+Price: $9.99
+Supplier: Supplier X
+
+Item ID: 005
+Item Name: Widget E
+Quantity: 50
+Price: $15.00
+Supplier: Supplier Y
